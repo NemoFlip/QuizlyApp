@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  QuizlyApp
 //
-//  Created by Artem on 17.08.2023.
+//  Created by "Hello, Swift!" on 17.08.2023.
 //
 
 import UIKit
